@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'am Code _ Once 
 
-[![Mail Badge](https://img.shields.io/badge/-codeonce@foxmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:codeonce@foxmail.com)](mailto:codeonce@foxmail.com) [![Github Badge](https://img.shields.io/badge/-CodeOnceW-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/CodeOnceW/)](https://www.github.com/CodeOnceW/)
+[![Mail Badge](https://img.shields.io/badge/-codeonce@foxmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:codeonce@foxmail.com)](mailto:codeonce@foxmail.com) [![Github Badge](https://img.shields.io/badge/-CodeOnceW-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/wcodeonce/)](https://www.github.com/CodeOnceW/)
 
 ![](https://img.shields.io/badge/Develop-Python-informational?style=for-the-badge&logo=Gmail<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Develop-JAVA-informational?style=for-the-badge&logo=Gmail<LOGO_NAME>&logoColor=white&color=2bbc8a)
